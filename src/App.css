@@ -1,0 +1,16 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+button {
+  background-color: white;
+  color: black;
+  border-radius: 50%;
+  padding: 30px;
+  font-family: Inter, sans-serif;
+  font-weight: bold;
+  font-size: 3rem;
+}
